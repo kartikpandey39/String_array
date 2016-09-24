@@ -60,7 +60,7 @@ namespace gfg_string_Minimizing_string_value
 
     }
 
-    class Program
+    class Minimizing_string_value
     {
         static void Main(string[] args)
         {
