@@ -31,7 +31,7 @@ namespace gfg_string_Reverse_Strings
         }
 
     }
-    class Program
+    class gfg_Reverse_string
     {
         public static void Main(string[] args)
         {
