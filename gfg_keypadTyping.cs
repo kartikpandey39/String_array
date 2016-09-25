@@ -38,7 +38,7 @@ namespace gfg_string_KeypadTyping
             Console.WriteLine();
         }
     }
-    class Program
+    class gfg_KeypadTyping
     {
         static void Main(string[] args)
         {
